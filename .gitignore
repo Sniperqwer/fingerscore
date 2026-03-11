@@ -36,6 +36,10 @@ htmlcov/
 # Plan
 PLAN.md
 
+# Claude Code
+CLAUDE.md
+.claude/
+
 # Distribution
 *.tar.gz
 *.whl
